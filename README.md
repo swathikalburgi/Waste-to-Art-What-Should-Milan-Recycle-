@@ -2,7 +2,7 @@
 This project uses Milan's This project uses Milan's urban waste data (2021–2023) to analyze recycling trends, identify challenges, and suggest actionable insights for improving sustainability efforts. It combines **data analysis** and **visual storytelling** to create a clear narrative of Milan's waste patterns.
 
 ## Data
-- Source: Milan Open Waste Data (2021–2023)
+- Source: Milan City Open Data Portal (2021–2023)
 - Key metrics: Total waste (RU), recyclable waste (RD), organic waste, plastics, e-waste, and paper.
 
 ## Highlights
